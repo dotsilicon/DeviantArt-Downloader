@@ -42,12 +42,6 @@ The app is distributed as a single Windows installer created with Inno Setup.
 - Availability of images may vary depending on page structure and access restrictions
 - Please respect copyright, artist rights, and platform terms when downloading content
 
-## Screenshots
+## Screenshot
 
-Add your screenshots here.
-
-Example:
-
-```md
-![Main Window](screenshots/main-window.png)
-![Download Screen](screenshots/download-screen.png)
+![Main Window](screenshot.png)
