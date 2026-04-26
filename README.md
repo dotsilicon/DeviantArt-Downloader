@@ -45,3 +45,4 @@ The app is distributed as a single Windows installer created with Inno Setup.
 ## Screenshot
 
 ![Main Window](screenshot.png)
+![About Window](screenshot2.png)
